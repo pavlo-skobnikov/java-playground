@@ -13,4 +13,4 @@ plugins {
 }
 
 rootProject.name = 'java-playground'
-include('app', 'app2', 'list', 'utilities', 'duckTyping')
+include('duckTyping')
