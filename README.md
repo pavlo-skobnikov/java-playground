@@ -10,7 +10,7 @@ ideas gets its own Gradle subproject.
 NOTE: Some subprojects may fail their builds by design to show off some interesting part of Java,
 so, running base Gradle commands isn't that safe.
 
-```gradle
+```bash
 ./gradlew :SUBPROJECT:GRADLE_COMMAND
 ```
 
