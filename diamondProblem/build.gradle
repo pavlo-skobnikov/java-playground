@@ -1,0 +1,11 @@
+plugins {
+    id 'playground.java-application-conventions'
+}
+
+dependencies {
+}
+
+application {
+    // Define the main class for the application.
+    mainClass = 'playground.diamond.problem.Main'
+}
