@@ -16,3 +16,6 @@ so, running base Gradle commands isn't that safe.
 
 - [duckTyping](./duckTyping/src/main/java/playground/duck/typing/TypeCoercer.java) -> Mimics
   duck-typing in Java with runtime JDK proxies.
+- [diamondProblem](./diamondProblem/src/main/java/playground/diamond/problem/DiamondProblem.java)
+  -> Shows off that creating the [diamon problem](https://en.wikipedia.org/wiki/Multiple_inheritance)
+  is actually possible in Java (just via interfaces)
